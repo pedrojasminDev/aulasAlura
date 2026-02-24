@@ -30,12 +30,7 @@ public class aluraclass {
         System.out.println("Resultado da concatenação: " + resultado);
     }*/
 
-
-    //escrevendo pela IDE para mandar para o GitHub
-    
+    //comentario pela IDE
 
     
-
-
-
 }
